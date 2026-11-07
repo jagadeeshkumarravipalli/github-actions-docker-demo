@@ -1,4 +1,4 @@
-# Basic nginx Dockerfil
+# Baic nginx Dockerfil
 FROM ubuntu:20.04
 
 RUN apt-get -y update
